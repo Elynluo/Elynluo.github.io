@@ -21,7 +21,7 @@ repository               : "elynluo/elynluo.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Yilin.jpg"
+  avatar           : "Yilin_square.jpg"
   name             : "Yilin Luo"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Medical Engineering and Electrical Engineering"
