@@ -25,13 +25,13 @@ author_profile: true
     margin-right: 10px;
     width: 150px; /* Set a fixed width for the image container */
     height: 150px; /* Set a fixed height for the image container */
-    overflow: hidden; /* Hide any overflowing content within the container */
+    overflow: visible; /* Hide any overflowing content within the container, original hidden */
   }
 
   .publication-image img {
     width: 100%; /* Ensure the image fills the container horizontally */
     height: 100%; /* Ensure the image fills the container vertically */
-    object-fit: cover; /* Maintain aspect ratio and crop if necessary */
+    object-fit: fill; /* Maintain aspect ratio and crop if necessary, original cover */
   }
 
   .publication-details {
