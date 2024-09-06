@@ -14,6 +14,11 @@ I'm currently a PhD candidate in the Department of Medical Engineering at Caltec
 
 My career goal is to become an engineer-scientist in biomedical imaging, where I aspire to integrate optics, acoustics and computational techniques to develop innovative and highly sensitive imaging modalities for disease diagnostics and sensing. 
 
+News
+======
+09/04/2024 - Started setting my homepage!
+08/29/2024 - My first paper at Caltech is accepted by IEEE Transactions of Medical Imaging!
+
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
