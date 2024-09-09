@@ -17,7 +17,7 @@ My career goal is to become an engineer-scientist in biomedical imaging, where I
 News
 ======
 09/04/2024 - Started setting up my homepage! \
-08/29/2024 - My first paper at Caltech is accepted by IEEE Transactions of Medical Imaging (IF=10.6)!
+08/29/2024 - My first paper at Caltech is accepted by IEEE Transactions of Medical Imaging (IF=10.6)! [Check it out](https://doi.org/10.1109/TMI.2024.3456595)
 
 <!-- Getting started
 ======
