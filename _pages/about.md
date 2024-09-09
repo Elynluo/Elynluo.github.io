@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 I'm currently a PhD candidate in the Department of Medical Engineering at Caltech, under the supervision or [Prof. Lihong Wang](https://coilab.caltech.edu/). My current research interest include:
-1. Next-generation human-scale photoacoustic tomography (PACT) systems
-2. Ultraviolet photoacoustic microscopy (UV-PAM)
-3. Numerical modeling for skull de-aberration for transcranial PACT
-4. Computational microscopy with machine learning methods
+1. Next-generation human-scale photoacoustic tomography (PACT) systems for non-invasive human organ imaging
+2. HE-equivalent label-free ultraviolet photoacoustic microscopy (UV-PAM) for fresh specimen intraoperative imaging
+3. Numerical modeling and correction for skull-induced ultrasound aberration in transcranial PACT/USCT
+4. Machine-learning enabled computational microscopy
 
 My career goal is to become an engineer-scientist in biomedical imaging, where I aspire to integrate optics, acoustics and computational techniques to develop innovative and highly sensitive imaging modalities for disease diagnostics and sensing. 
 
