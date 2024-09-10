@@ -6,13 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a PhD candidate in the Department of Medical Engineering at Caltech, under the supervision of [Prof. Lihong Wang](https://coilab.caltech.edu/). My current research interest include:
-1. Next-generation human-scale photoacoustic tomography (PACT) systems for non-invasive human organ imaging
-2. HE-equivalent label-free ultraviolet photoacoustic microscopy (UV-PAM) for fresh specimen intraoperative imaging
-3. Numerical modeling and correction for skull-induced ultrasound aberration in transcranial PACT/USCT
-4. Machine-learning enabled computational microscopy
+I am currently pursuing my PhD in Medical Engineering at Caltech, under the guidance of [Prof. Lihong Wang](https://coilab.caltech.edu/). My research is focused on advancing the field of biomedical imaging, with particular interests in:
 
-My career goal is to become an engineer-scientist in biomedical imaging, where I aspire to integrate optics, acoustics and computational techniques to develop innovative and highly sensitive imaging modalities for disease diagnostics and sensing. 
+1. Developing next-generation human-scale photoacoustic tomography (PACT) systems for non-invasive imaging of human organs.
+2. Innovating HE-equivalent, label-free ultraviolet photoacoustic microscopy (UV-PAM) for real-time intraoperative imaging of fresh specimens.
+3. Numerical modeling and correction techniques for skull-induced ultrasound aberration in transcranial PACT/USCT.
+4. Leveraging machine learning to enhance computational microscopy.
+
+My ultimate goal is to become an engineer-scientist in biomedical imaging, where I aim to merge optics, acoustics, and computational methods to create innovative and highly sensitive imaging technologies for disease diagnostics and sensing.
 
 News
 ======
@@ -22,11 +23,11 @@ News
 <!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
