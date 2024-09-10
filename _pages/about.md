@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm currently a PhD candidate in the Department of Medical Engineering at Caltech, under the supervision or [Prof. Lihong Wang](https://coilab.caltech.edu/). My current research interest include:
+I'm currently a PhD candidate in the Department of Medical Engineering at Caltech, under the supervision of [Prof. Lihong Wang](https://coilab.caltech.edu/). My current research interest include:
 1. Next-generation human-scale photoacoustic tomography (PACT) systems for non-invasive human organ imaging
 2. HE-equivalent label-free ultraviolet photoacoustic microscopy (UV-PAM) for fresh specimen intraoperative imaging
 3. Numerical modeling and correction for skull-induced ultrasound aberration in transcranial PACT/USCT
