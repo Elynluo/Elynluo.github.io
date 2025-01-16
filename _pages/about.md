@@ -17,9 +17,9 @@ My ultimate goal is to become an engineer-scientist in biomedical imaging, where
 
 News
 ======
-12/27/2025 - Congrats to Karteek for his publication on TMI! What a great holiday gift!
-12/18/2024 - Congrats to Rui for his publication on Science Advances! 
-10/14/2024 - Got the Certificate of Distinction as an IEEE TMI Distinguished Reviewer! 
+12/27/2025 - Congrats to Karteek for his publication on TMI! What a great holiday gift! \
+12/18/2024 - Congrats to Rui for his publication on Science Advances! \
+10/14/2024 - Got the Certificate of Distinction as an IEEE TMI Distinguished Reviewer! \
 09/04/2024 - Started setting up my homepage! \
 08/29/2024 - My first paper at Caltech is accepted by IEEE Transactions of Medical Imaging (IF=10.6)! Check it out [here](https://doi.org/10.1109/TMI.2024.3456595)
 
