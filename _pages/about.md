@@ -9,7 +9,7 @@ redirect_from:
 I am currently pursuing my PhD in Medical Engineering at Caltech, under the guidance of [Prof. Lihong Wang](https://coilab.caltech.edu/). My research is focused on advancing the field of biomedical imaging, with particular interests in:
 
 1. Developing next-generation human-scale photoacoustic tomography (PACT) systems for non-invasive imaging of various human organs.
-2. Innovating HE-equivalent, label-free ultraviolet photoacoustic microscopy (UV-PAM) for real-time intraoperative imaging of fresh specimens.
+2. Innovating ultrafast HE-equivalent, label-free ultraviolet photoacoustic microscopy (UV-PAM) for real-time intraoperative imaging of fresh specimens.
 3. Numerical modeling and correction techniques for skull-induced ultrasound aberration in transcranial PACT.
 4. Leveraging machine learning and classical optimization methods to enhance biomedical imaging techniques, including microscopy and tomography.
 
@@ -17,6 +17,7 @@ My ultimate goal is to become an engineer-scientist in biomedical imaging, where
 
 News
 ======
+06/17/2025 - My Google Scholar citation reached 1000! \
 05/23/2025 - My first review article is online! \
 12/27/2024 - Congrats to Karteek for his publication on TMI! What a great holiday gift :) \
 12/18/2024 - Congrats to Rui for his publication on Science Advances! Rui YYDS! \
