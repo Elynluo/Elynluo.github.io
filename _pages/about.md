@@ -17,6 +17,7 @@ My ultimate goal is to become an engineer-scientist in biomedical imaging, where
 
 News
 ======
+06/24/2025 - Big congrats for Xin and Cindy for our paper published in Nature BME! \
 06/17/2025 - My Google Scholar citation reached 1000+! \
 05/23/2025 - My first review article is online! \
 12/27/2024 - Congrats to Karteek for his publication on TMI! What a great holiday gift :) \
