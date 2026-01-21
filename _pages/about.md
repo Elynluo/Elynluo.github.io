@@ -17,6 +17,9 @@ My ultimate goal is to become an engineer-scientist in biomedical imaging, where
 
 News
 ======
+01/21/2025 - I got the 2026 SPIE Best Paper Award at the Photons Plus Ultrasound Conference in San Francisco, California. Can finally have a good sleep now... \
+01/16/2026 - Big congrats to Yang for his second Nature BME paper! Really inspiring perseverance and determination! \
+12/08/2025 - Congrats to Xiaofei for her IEEE TMI paper! \ 
 11/21/2025 - Big congrats to Byullee, Rui and Cindy for our paper published in Science Advances! \
 06/24/2025 - Big congrats to Xin and Cindy for our paper published in Nature BME! \
 06/17/2025 - My Google Scholar citation reached 1000+! \
