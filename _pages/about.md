@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! I'm Yilin (骆依林)"
+title: "Hello! I'm Yilin"
 author_profile: true
 redirect_from: 
   - /about/
