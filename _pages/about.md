@@ -17,6 +17,7 @@ My ultimate goal is to become an engineer-scientist in biomedical imaging, where
 
 News
 ======
+02/03/2026 - Congrats to Yousuf for his human skull deaberration paper! This is an underrecognized but highly important contribution to advancing our field. \
 01/21/2026 - I got the 2026 SPIE Best Paper Award at the Photons Plus Ultrasound Conference in San Francisco, California. This is my first SPIE conference in my PhD, I can finally have a good sleep now... \
 01/16/2026 - Big congrats to Yang for his second Nature BME paper! Really inspiring perseverance and determination! \
 12/08/2025 - Congrats to Xiaofei for her IEEE TMI paper! A rewarding gift for her time at Caltech! \
