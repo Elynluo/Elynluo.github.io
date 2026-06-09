@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing my PhD in Medical Engineering at Caltech, under the guidance of [Prof. Lihong Wang](https://coilab.caltech.edu/). My research is focused on advancing the field of biomedical imaging, with particular interests in:
+I am currently pursuing my PhD in Medical and Electrical Engineering [dual-track](https://www.ee.caltech.edu/academics/medee-track) at Caltech, under the guidance of [Prof. Lihong Wang](https://coilab.caltech.edu/). My research is focused on advancing the field of biomedical imaging, with particular interests in:
 
 1. Developing next-generation human-scale photoacoustic tomography (PACT) systems for non-invasive imaging of various human organs.
 2. Innovating ultrafast HE-equivalent, label-free ultraviolet photoacoustic microscopy (UV-PAM) for real-time intraoperative imaging of fresh specimens.
