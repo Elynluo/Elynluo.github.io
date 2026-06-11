@@ -15,6 +15,8 @@ I am currently pursuing my PhD in Medical and Electrical Engineering ([Dual-Trac
 
 My ultimate goal is to become an engineer-scientist in biomedical imaging, where I aim to merge optics, acoustics, and computational methods to create innovative and highly sensitive imaging technologies for disease diagnostics and sensing.
 
+Outside the lab, I’m a Taekwondo Black Belt, a karaoke-only singer, and a home cook trained entirely on RedNote.
+
 News
 ======
 06/06/2026 - Random but I just want to share: I passed my Taekwondo 1st Dan Black Belt Test! \
