@@ -17,6 +17,7 @@ My ultimate goal is to become an engineer-scientist in biomedical imaging, where
 
 News
 ======
+06/06/2026 - Random but I just want to share: I passed my Taekwondo 1st Dan Black Belt Test! \
 02/03/2026 - Congrats to Yousuf for his [human skull deaberration paper](https://www.nature.com/articles/s42005-026-02545-3)! This is an underrecognized but highly important contribution to advancing our field. \
 01/21/2026 - I got the 2026 SPIE Best Paper Award at the Photons Plus Ultrasound Conference in San Francisco, California. This is my first SPIE conference in my PhD, I can finally have a good sleep now... \
 01/16/2026 - Big congrats to Yang for his second [Nature BME paper](https://www.nature.com/articles/s41551-025-01603-5)! Really inspiring perseverance and determination! \
