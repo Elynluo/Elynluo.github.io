@@ -6,14 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing my PhD in Medical and Electrical Engineering ([Dual-Track](https://www.ee.caltech.edu/academics/medee-track)) at Caltech, under the guidance of [Prof. Lihong Wang](https://coilab.caltech.edu/). My research is focused on advancing the field of biomedical imaging, with particular interests in:
+I am currently pursuing my PhD in Medical and Electrical Engineering ([Dual-Track](https://www.ee.caltech.edu/academics/medee-track)) at Caltech, under the guidance of [Prof. Lihong Wang](https://coilab.caltech.edu/). Before Caltech, I completed my master's degree in Electrical and Computer Engineering at UCLA, where I worked with [Prof. Aydogan Ozcan](https://research.seas.ucla.edu/ozcan/) on deep learning for microscopy. I began working on optical microscopy for brain imaging with [Prof. Jing Yuan](https://scholar.google.com/citations?user=nfzawnwAAAAJ&hl=en) as an undergraduate in Biomedical Engineering at Huazhong University of Science and Technology (HUST).
 
-1. Developing next-generation human-scale photoacoustic tomography (PACT) systems for non-invasive imaging of various human organs.
-2. Innovating ultrafast HE-equivalent, label-free ultraviolet photoacoustic microscopy (UV-PAM) for real-time intraoperative imaging of fresh specimens.
-3. Numerical modeling and correction techniques for skull-induced ultrasound aberration in transcranial PACT.
-4. Leveraging machine learning and classical optimization methods to enhance biomedical imaging techniques, including microscopy and tomography.
+I design imaging hardware and computational methods together to push biomedical imaging beyond its current limits. My work spans four areas:
 
-My ultimate goal is to become an engineer-scientist in biomedical imaging, where I aim to merge optics, acoustics, and computational methods to create innovative and highly sensitive imaging technologies for disease diagnostics and sensing.
+1. Developing next-generation human-scale photoacoustic computed tomography (PACT) systems for non-invasive imaging of various human organs.
+2. Innovating ultrafast, scalable ultraviolet photoacoustic microscopy (UV-PAM) for real-time, label-free imaging of fresh surgical specimens with H&E-equivalent contrast.
+3. Modeling skull-induced ultrasound aberrations and developing correction methods for transcranial PACT.
+4. Designing machine-learning and classical optimization methods for image reconstruction and enhancement in microscopy and tomography.
+
+My long-term goal is to combine optics, acoustics, and computation to develop more sensitive imaging and sensing technologies for disease diagnosis.
 
 Outside the lab, I’m a Taekwondo Black Belt, a karaoke-only singer, and a home cook trained entirely on RedNote.
 
